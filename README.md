@@ -46,7 +46,3 @@ Instructions not supported:-
     - auipc, lui and pseudo instructions not handled.
     - Assumption, code would be free of the syntax errors.
 
-
-GUI :- Electron framework
-            - Node JS backend
-            - HTML CSS frontend
